@@ -1,0 +1,17 @@
+{
+  "type": "module",
+  "dependencies": {
+    "chai": "^5.1.0",
+    "mocha": "^10.4.0"
+  },
+  "name": "belajar-mocha",
+  "version": "1.0.0",
+  "main": "penjumlahan.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha **/*.spec.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
